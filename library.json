@@ -1,17 +1,17 @@
 {
-  "name" : "kbide-plugin-digital-water-flow-sensor-yf-s401-1-8--0.3-6l-min-0.8-mpa",
-  "title": "digital-water-flow-sensor-yf-s401-1-8--0.3-6l-min-0.8-mpa",
-  "keywords": "digital-water-flow-sensor-yf-s401-1-8--0.3-6l-min-0.8-mpa, esp32, esp8266, arduino",
-  "description": "digital-water-flow-sensor-yf-s401-1-8--0.3-6l-min-0.8-mpa plugin for KB-IDE",
+  "name" : "kbide-plugin-water-flow-yfs401",
+  "title": "water-flow-yfs401",
+  "keywords": "water-flow-yfs401, esp32, esp8266, arduino",
+  "description": "water-flow-yfs401 plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-digital-water-flow-sensor-yf-s401-1-8--0.3-6l-min-0.8-mpa/",
-  "author": "cmmakerclub",
+  "author": "ER9XTO",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-digital-water-flow-sensor-yf-s401-1-8--0.3-6l-min-0.8-mpa/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/flowsensor.png",
   "homepage": "http://www.kbide.org"
 }
